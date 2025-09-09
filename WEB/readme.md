@@ -14,7 +14,7 @@ Os resultados retornados em um JSON são tratados e salvos em **CSV** de forma e
 ---
 ## Dependências
 
-As dependências são gerenciadas via **`requirements.txt`**:
+As dependências são gerenciadas via **`web_requirements.txt`**:
 
 ```txt
 logging==0.4.9.6
@@ -63,7 +63,7 @@ Caso não queira usar o .bat, você pode rodar manualmente:
 ```txt
 python -m venv venv
 venv\Scripts\activate
-pip install -r requirements.txt
+pip install -r web_requirements.txt
 *python main.py "Bauru - SP"*
 ```
 
