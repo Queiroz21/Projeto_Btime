@@ -1,0 +1,405 @@
+[2025-09-09 01:41:02] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 01:41:03] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 01:41:05] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:41:05] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:41:05] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:41:05] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="e81b062dbd31dfc2a177f375d00c7928", element="f.A24768F8E70224DC593C8ECBE63187A7.d.86BF15F5739CD39AE35DFAC631EC44F4.e.23")>
+[2025-09-09 01:47:33] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 01:47:34] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 01:47:47] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:47:47] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:47:47] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:47:47] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="d16c81d92b6af494e5d7dcbd0c1cbfd4", element="f.E793AB22FEA8FA9540B8B80B74F5F0DE.d.13DD291698E8A5028CB3CE4E2B46BD5A.e.12")>
+[2025-09-09 01:47:47] [INFO] [SeleniumUtils] - Aguardando elemento presente: xpath
+[2025-09-09 01:49:34] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 01:49:35] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 01:49:37] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:49:37] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:49:37] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:49:37] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="e46523c977055c8ec33446b4dee9d94b", element="f.EFC95F39FED5134D5BCEBF0DA37040AE.d.CFF3A879996BCD0CC28EC0EBDDAB0E04.e.22")>
+[2025-09-09 01:49:37] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:49:37] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:49:37] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 01:50:04] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 01:50:05] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 01:50:08] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:50:08] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:50:08] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:50:08] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="6828ce38758d4caf527d64d2a9a99305", element="f.8C15D86A7AD4C2E98ED67BBB6C3BDC50.d.2F3743C7EFB20AC1E3E2DE3706667D7F.e.6")>
+[2025-09-09 01:50:08] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:50:08] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:50:08] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 01:52:31] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 01:52:32] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 01:52:38] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:52:38] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:52:38] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:52:38] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="5ee430ea932a47a5244ba72e5eb32209", element="f.53D08822BA6EE88C61F87AC208AE4624.d.38371DFF2696FFCBE8386F51E11F6500.e.17")>
+[2025-09-09 01:52:38] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:52:38] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:52:38] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 01:54:52] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 01:54:53] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 01:54:56] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:54:56] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:54:56] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:54:56] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="99df773dde91ec619996400a8e9d0a87", element="f.07766F3B36A7DF7C3D2957B0C7E0EF38.d.65DCB879537852B4AB113DBF0F1F8647.e.10")>
+[2025-09-09 01:54:56] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:54:56] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'SÃO PAULO - SP' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:54:56] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'SÃO PAULO - SP'
+[2025-09-09 01:56:21] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 01:56:22] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 01:56:25] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:56:25] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:56:25] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:56:25] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="be4ad5363028dc0e67709ede809a1815", element="f.B711E68898F4B14F05361D8BE2FF14C6.d.2B7A3A4547B1EE9E0CAC0062E0E6F96C.e.7")>
+[2025-09-09 01:56:25] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:56:25] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo - SP' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 01:56:25] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo - SP'
+[2025-09-09 02:09:48] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 02:09:49] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 02:09:53] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:09:53] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:09:53] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:09:53] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="ff29a5414d7a34ce1664f2d9a6c6608c", element="f.799AB4A8633C86CAEDE02A26A167C9A8.d.FC320160349C0E8AD5EFBE9C671B037E.e.29")>
+[2025-09-09 02:09:53] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:09:53] [INFO] [SeleniumUtils] - [DIGITAR] Texto '['São Paulo', 'SP']' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:09:53] [ERROR] [SeleniumUtils] - [ERRO] Falha ao digitar em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."] - 'in <string>' requires string as left operand, not list
+[2025-09-09 02:10:28] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 02:10:29] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 02:10:33] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:10:33] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:10:33] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:10:33] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="e4b58fdff15fbc71e25cf0f9f0882642", element="f.3E3C40821F596679DF75B818B6599315.d.F0004FB521C0D61E1388B0B980F8397F.e.19")>
+[2025-09-09 02:10:33] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:10:33] [INFO] [SeleniumUtils] - [DIGITAR] Texto '['São Paulo', 'SP']' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:10:33] [ERROR] [SeleniumUtils] - [ERRO] Falha ao digitar em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."] - 'in <string>' requires string as left operand, not list
+[2025-09-09 02:10:57] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 02:10:58] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 02:11:00] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:11:01] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:11:01] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:11:01] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="156e4e827d29381b7788d98de35fb315", element="f.5CBBAE87AA26E5D2EB989260E357234F.d.85B9D8BDB45A6ABDA364E1421ACBE25F.e.7")>
+[2025-09-09 02:11:01] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:11:01] [INFO] [SeleniumUtils] - [DIGITAR] Texto '['São Paulo', 'SP']' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:11:01] [ERROR] [SeleniumUtils] - [ERRO] Falha ao digitar em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."] - 'in <string>' requires string as left operand, not list
+[2025-09-09 02:11:42] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 02:11:43] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 02:11:47] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:11:47] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:11:47] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:11:47] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="f707e0ba21b2fd4d681e24c0501ffb99", element="f.BB4CDBB8EC33424206E7D265F896A420.d.EBBC45DE5D2AB6017B2B6133D66DF1C8.e.22")>
+[2025-09-09 02:11:47] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:11:47] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:11:47] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 02:11:47] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 02:11:47] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 02:11:48] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="f707e0ba21b2fd4d681e24c0501ffb99", element="f.BB4CDBB8EC33424206E7D265F896A420.d.EBBC45DE5D2AB6017B2B6133D66DF1C8.e.58")>
+[2025-09-09 02:11:48] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 02:12:56] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 02:12:57] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 02:13:00] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:13:00] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:13:00] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:13:00] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="eff7b6f5bbd70227cf7a42f060d548e6", element="f.D9C1E8DAD9A5C183248D1E155F0F2001.d.FCD408023A448664D4545A6610179AD7.e.17")>
+[2025-09-09 02:13:00] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:13:00] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 02:13:00] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 02:13:00] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 02:13:00] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 02:13:02] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="eff7b6f5bbd70227cf7a42f060d548e6", element="f.D9C1E8DAD9A5C183248D1E155F0F2001.d.FCD408023A448664D4545A6610179AD7.e.61")>
+[2025-09-09 02:13:02] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 02:13:02] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 02:13:04] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="eff7b6f5bbd70227cf7a42f060d548e6", element="f.D9C1E8DAD9A5C183248D1E155F0F2001.d.8AABFA209137A9B3033CDFF920EB6118.e.95")>
+[2025-09-09 03:01:28] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 03:01:29] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 03:01:29] [ERROR] [SeleniumUtils] - Erro ao abrir o Chrome: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+[2025-09-09 03:01:35] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 03:01:36] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 03:01:37] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:01:37] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:01:37] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:01:37] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="6b4253be0d7c732031e848919dd2bd6c", element="f.A1053974E8A63F5A16084CBB6DB98EAA.d.DE02145B69D6AB15D0CE5C3F00156750.e.2")>
+[2025-09-09 03:01:37] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:01:37] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'SÃO PAULO' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:01:37] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'SÃO PAULO'
+[2025-09-09 03:01:37] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="SÃO PAULO - SP"]
+[2025-09-09 03:01:37] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="SÃO PAULO - SP"]
+[2025-09-09 03:01:52] [ERROR] [SeleniumUtils] - Timeout: elemento '//h6[.="Cidades"]/..//span[text()="SÃO PAULO - SP"]' não ficou visível em 15s.
+[2025-09-09 03:01:52] [ERROR] [SeleniumUtils] - Não foi possível clicar, elemento 'None' não encontrado/visível.
+[2025-09-09 03:01:52] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 03:01:52] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 03:02:08] [ERROR] [SeleniumUtils] - Timeout: elemento '//a[@title="Previsão 15 dias para São Paulo"]' não ficou visível em 15s.
+[2025-09-09 03:02:08] [ERROR] [SeleniumUtils] - Não foi possível clicar, elemento 'None' não encontrado/visível.
+[2025-09-09 03:02:35] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 03:02:36] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 03:02:37] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:02:37] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:02:37] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:02:37] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="d2bc3837c9bf1a638a8bbe6035955c59", element="f.DE1656FDEC9B3C8E8E5589E9B35D2E9B.d.8C5EBCD300713827CB5CA091A727C742.e.18")>
+[2025-09-09 03:02:37] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:02:37] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'SÃO PAULO' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:02:37] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'SÃO PAULO'
+[2025-09-09 03:02:37] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="SÃO PAULO - SP"]
+[2025-09-09 03:02:37] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="SÃO PAULO - SP"]
+[2025-09-09 03:02:53] [ERROR] [SeleniumUtils] - Timeout: elemento '//h6[.="Cidades"]/..//span[text()="SÃO PAULO - SP"]' não ficou visível em 15s.
+[2025-09-09 03:02:53] [ERROR] [SeleniumUtils] - Não foi possível clicar, elemento 'None' não encontrado/visível.
+[2025-09-09 03:02:53] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 03:02:53] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 03:04:10] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 03:04:11] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 03:04:13] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:04:13] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:04:13] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:04:13] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="46602580c0efc8422d2baec8009683d2", element="f.4633A705914335CA7A97AF1B416D8848.d.633E4BEA84CE01258766AE9DA4C2A5DC.e.30")>
+[2025-09-09 03:04:13] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:04:13] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:04:13] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 03:04:13] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 03:04:13] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 03:04:15] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="46602580c0efc8422d2baec8009683d2", element="f.4633A705914335CA7A97AF1B416D8848.d.633E4BEA84CE01258766AE9DA4C2A5DC.e.69")>
+[2025-09-09 03:04:15] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 03:04:15] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 03:04:16] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="46602580c0efc8422d2baec8009683d2", element="f.4633A705914335CA7A97AF1B416D8848.d.290F9CC35CA62F25641A2FD91D5B8E11.e.94")>
+[2025-09-09 03:24:30] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 03:24:31] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 03:24:33] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:24:34] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:24:34] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:24:34] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="483b5db02cb904092b257ceb18091dd4", element="f.EEDD6492F8C31C6CF9DBF8BE60970D10.d.21474C4E3C3E88684B1ECE9C24E77DDE.e.6")>
+[2025-09-09 03:24:34] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:24:34] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:24:34] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 03:24:34] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 03:24:34] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 03:24:35] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="483b5db02cb904092b257ceb18091dd4", element="f.EEDD6492F8C31C6CF9DBF8BE60970D10.d.21474C4E3C3E88684B1ECE9C24E77DDE.e.60")>
+[2025-09-09 03:24:35] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 03:24:35] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 03:24:36] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="483b5db02cb904092b257ceb18091dd4", element="f.EEDD6492F8C31C6CF9DBF8BE60970D10.d.E826834DB50C883B3F23FAD916557448.e.80")>
+[2025-09-09 03:26:46] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@id="chk-accordion-daily-info-1"]/..
+[2025-09-09 03:32:51] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]
+[2025-09-09 03:34:53] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 03:34:54] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 03:34:57] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:34:57] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:34:57] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:34:57] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="b6ff659379457a89533ded7a6345a5d6", element="f.79C1F033B2676F398998AB0C1FF2930F.d.807D1E873ECC27D8A76F347F1F5A45FC.e.6")>
+[2025-09-09 03:34:57] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:34:57] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:34:57] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 03:34:57] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 03:34:57] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 03:34:59] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="b6ff659379457a89533ded7a6345a5d6", element="f.79C1F033B2676F398998AB0C1FF2930F.d.807D1E873ECC27D8A76F347F1F5A45FC.e.52")>
+[2025-09-09 03:34:59] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 03:34:59] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 03:35:00] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="b6ff659379457a89533ded7a6345a5d6", element="f.79C1F033B2676F398998AB0C1FF2930F.d.9A9C237F6EBA5DF81E153528B85898A5.e.92")>
+[2025-09-09 03:35:15] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]
+[2025-09-09 03:35:29] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]
+[2025-09-09 03:36:27] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 03:36:28] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 03:36:30] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:36:30] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:36:30] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:36:30] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="13018e4da43fddf6cf1ed6cc7cb26a1a", element="f.B662DB0F9DBE478CE2F9E3AE005D027F.d.63286E7D55D6DFA261C7A180522D87C6.e.2")>
+[2025-09-09 03:36:30] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:36:30] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 03:36:30] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 03:36:30] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 03:36:30] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 03:36:32] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="13018e4da43fddf6cf1ed6cc7cb26a1a", element="f.B662DB0F9DBE478CE2F9E3AE005D027F.d.63286E7D55D6DFA261C7A180522D87C6.e.60")>
+[2025-09-09 03:36:32] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 03:36:32] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 03:36:33] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="13018e4da43fddf6cf1ed6cc7cb26a1a", element="f.B662DB0F9DBE478CE2F9E3AE005D027F.d.C490968B4B54A0191C67628C26F3DD41.e.98")>
+[2025-09-09 03:36:56] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]
+[2025-09-09 08:55:31] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 08:55:32] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 08:55:52] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 08:55:52] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 08:55:52] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 08:55:52] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="a18c8f8b8f78e5f614797c6ca195f9e3", element="f.3D98895F444E0A4DDE566F56FCD63136.d.11A6F7660671ACE3D0E2F5F41B399A37.e.17")>
+[2025-09-09 08:55:52] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 08:55:52] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 08:55:52] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 08:55:52] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 08:55:52] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 08:55:54] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="a18c8f8b8f78e5f614797c6ca195f9e3", element="f.3D98895F444E0A4DDE566F56FCD63136.d.11A6F7660671ACE3D0E2F5F41B399A37.e.43")>
+[2025-09-09 08:55:54] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 08:55:54] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 08:55:57] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="a18c8f8b8f78e5f614797c6ca195f9e3", element="f.3D98895F444E0A4DDE566F56FCD63136.d.8EAE5BFBE4EC37889D6AC089B8EF65F1.e.65")>
+[2025-09-09 08:56:48] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]
+[2025-09-09 09:38:20] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 09:38:22] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 09:40:17] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 09:40:18] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 09:42:25] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 09:42:26] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 09:42:28] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:42:28] [INFO] [SeleniumUtils] - Página aberta com sucesso
+[2025-09-09 09:42:28] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:42:28] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:42:28] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="87defdd543d73a4672d8df5c8aef7bfc", element="f.794D1DDB2F511F50D8CEB1F0CAF25F52.d.B4A0A5CD6F5951F5065F5534F9CAC731.e.16")>
+[2025-09-09 09:42:28] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:42:28] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:42:28] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 09:42:28] [INFO] [SeleniumUtils] - Texto parcial inserido
+[2025-09-09 09:42:28] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 09:42:28] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 09:42:30] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="87defdd543d73a4672d8df5c8aef7bfc", element="f.794D1DDB2F511F50D8CEB1F0CAF25F52.d.B4A0A5CD6F5951F5065F5534F9CAC731.e.61")>
+[2025-09-09 09:42:30] [INFO] [SeleniumUtils] - Localidade selecionada com sucesso
+[2025-09-09 09:42:30] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para "]
+[2025-09-09 09:42:30] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para "]
+[2025-09-09 09:42:46] [ERROR] [SeleniumUtils] - Timeout: elemento '//a[@title="Previsão 15 dias para "]' não ficou visível em 15s.
+[2025-09-09 09:42:46] [ERROR] [SeleniumUtils] - Não foi possível clicar, elemento 'None' não encontrado/visível.
+[2025-09-09 09:42:46] [INFO] [SeleniumUtils] - Carregamento de clima finalizado.
+[2025-09-09 09:42:46] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]
+[2025-09-09 09:43:06] [ERROR] [SeleniumUtils] - Timeout: elemento '//input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]' não ficou visível em 20s.
+[2025-09-09 09:43:06] [INFO] [SeleniumUtils] - Seção de cards coletada
+[2025-09-09 09:50:12] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 09:50:13] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 09:50:17] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:50:17] [INFO] [SeleniumUtils] - Página aberta com sucesso
+[2025-09-09 09:50:17] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:50:17] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:50:17] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="116873c481cb174c7365ce4f4227c825", element="f.B253C871F93F795E13A5732562042EB7.d.61842592B8B377657318243DCE8D405F.e.39")>
+[2025-09-09 09:50:17] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:50:17] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:50:17] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 09:50:17] [INFO] [SeleniumUtils] - Texto parcial inserido
+[2025-09-09 09:50:17] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 09:50:17] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 09:50:19] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="116873c481cb174c7365ce4f4227c825", element="f.B253C871F93F795E13A5732562042EB7.d.61842592B8B377657318243DCE8D405F.e.60")>
+[2025-09-09 09:50:19] [INFO] [SeleniumUtils] - Localidade selecionada com sucesso
+[2025-09-09 09:50:55] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 09:50:56] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 09:51:00] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:51:00] [INFO] [SeleniumUtils] - Página aberta com sucesso
+[2025-09-09 09:51:00] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:51:00] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:51:01] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="c5a8918ecd5b46e3696f7bc8e922e6d3", element="f.3F0976661E922A7C42A5314D1D1AD9D2.d.EE5F9E33ADDB93096E62A8349F0D6219.e.9")>
+[2025-09-09 09:51:01] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:51:01] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:51:01] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 09:51:01] [INFO] [SeleniumUtils] - Texto parcial inserido
+[2025-09-09 09:51:01] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 09:51:01] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 09:51:03] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="c5a8918ecd5b46e3696f7bc8e922e6d3", element="f.3F0976661E922A7C42A5314D1D1AD9D2.d.EE5F9E33ADDB93096E62A8349F0D6219.e.71")>
+[2025-09-09 09:51:03] [INFO] [SeleniumUtils] - Localidade selecionada com sucesso
+[2025-09-09 09:51:03] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para São Paulo - SP"]
+[2025-09-09 09:51:03] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para São Paulo - SP"]
+[2025-09-09 09:51:18] [ERROR] [SeleniumUtils] - Timeout: elemento '//a[@title="Previsão 15 dias para São Paulo - SP"]' não ficou visível em 15s.
+[2025-09-09 09:51:18] [ERROR] [SeleniumUtils] - Não foi possível clicar, elemento 'None' não encontrado/visível.
+[2025-09-09 09:51:18] [INFO] [SeleniumUtils] - Carregamento de clima finalizado.
+[2025-09-09 09:51:18] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]
+[2025-09-09 09:51:38] [ERROR] [SeleniumUtils] - Timeout: elemento '//input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]' não ficou visível em 20s.
+[2025-09-09 09:51:38] [INFO] [SeleniumUtils] - Seção de cards coletada
+[2025-09-09 09:52:57] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 09:52:58] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 09:53:02] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:53:02] [INFO] [SeleniumUtils] - Página aberta com sucesso
+[2025-09-09 09:53:02] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:53:02] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:53:02] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="a2e2712138410b75cdbb644e4585a2be", element="f.D0B808A6D73B700CFA0EFC610E7F5A62.d.2FD4FDB4B4AD6FF7895DC1317577F543.e.31")>
+[2025-09-09 09:53:02] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:53:02] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'São Paulo' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 09:53:02] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'São Paulo'
+[2025-09-09 09:53:02] [INFO] [SeleniumUtils] - Texto parcial inserido
+[2025-09-09 09:53:02] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 09:53:02] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="São Paulo - SP"]
+[2025-09-09 09:53:03] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="a2e2712138410b75cdbb644e4585a2be", element="f.D0B808A6D73B700CFA0EFC610E7F5A62.d.2FD4FDB4B4AD6FF7895DC1317577F543.e.49")>
+[2025-09-09 09:53:03] [INFO] [SeleniumUtils] - Localidade selecionada com sucesso
+[2025-09-09 09:53:03] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 09:53:03] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para São Paulo"]
+[2025-09-09 09:53:04] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="a2e2712138410b75cdbb644e4585a2be", element="f.D0B808A6D73B700CFA0EFC610E7F5A62.d.BDC7C4485D4330124F5F1E0A109AB765.e.94")>
+[2025-09-09 09:53:04] [INFO] [SeleniumUtils] - Carregamento de clima finalizado.
+[2025-09-09 09:53:04] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]
+[2025-09-09 09:53:04] [INFO] [SeleniumUtils] - Seção de cards coletada
+[2025-09-09 09:53:04] [INFO] [SeleniumUtils] - Pulando card de arco iris
+[2025-09-09 09:53:04] [INFO] [SeleniumUtils] - Dados referente a sol tratado com sucesso
+[2025-09-09 10:01:04] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 10:01:05] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 10:01:08] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:01:08] [INFO] [SeleniumUtils] - Página aberta com sucesso
+[2025-09-09 10:01:08] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:01:08] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:01:08] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="4ba2b69514e048302e81e17e197f8619", element="f.636708AA49C5BAB46BBF00CDC560AF62.d.71862C05FBB93CCC45A783D9FC35B0B3.e.6")>
+[2025-09-09 10:01:08] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:01:08] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'Franco da Rocha' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:01:08] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'Franco da Rocha'
+[2025-09-09 10:01:08] [INFO] [SeleniumUtils] - Texto parcial inserido
+[2025-09-09 10:01:08] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="Franco da Rocha - SP"]
+[2025-09-09 10:01:08] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="Franco da Rocha - SP"]
+[2025-09-09 10:01:10] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="4ba2b69514e048302e81e17e197f8619", element="f.636708AA49C5BAB46BBF00CDC560AF62.d.71862C05FBB93CCC45A783D9FC35B0B3.e.59")>
+[2025-09-09 10:01:10] [INFO] [SeleniumUtils] - Localidade selecionada com sucesso
+[2025-09-09 10:01:10] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para Franco da Rocha"]
+[2025-09-09 10:01:10] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para Franco da Rocha"]
+[2025-09-09 10:01:11] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="4ba2b69514e048302e81e17e197f8619", element="f.636708AA49C5BAB46BBF00CDC560AF62.d.B76749D61FDEC753FB432782F5B152A3.e.80")>
+[2025-09-09 10:01:11] [INFO] [SeleniumUtils] - Carregamento de clima finalizado.
+[2025-09-09 10:01:11] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]
+[2025-09-09 10:01:12] [INFO] [SeleniumUtils] - Seção de cards coletada
+[2025-09-09 10:01:12] [INFO] [SeleniumUtils] - Pulando card de arco iris
+[2025-09-09 10:01:12] [INFO] [SeleniumUtils] - Dados referente a sol tratado com sucesso
+[2025-09-09 10:02:20] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 10:02:21] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 10:02:25] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:02:25] [INFO] [SeleniumUtils] - Página aberta com sucesso
+[2025-09-09 10:02:25] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:02:25] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:02:26] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="b708058f85748853e13f6f19766c4a12", element="f.218BDB7EE51909C244E922C571E312A2.d.4DC70DD9B062564CD1ED0558A54CAD51.e.8")>
+[2025-09-09 10:02:26] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:02:26] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'Franco da Rocha' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:02:26] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'Franco da Rocha'
+[2025-09-09 10:02:26] [INFO] [SeleniumUtils] - Texto parcial inserido
+[2025-09-09 10:02:26] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="Franco da Rocha - SP"]
+[2025-09-09 10:02:26] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="Franco da Rocha - SP"]
+[2025-09-09 10:02:27] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="b708058f85748853e13f6f19766c4a12", element="f.218BDB7EE51909C244E922C571E312A2.d.4DC70DD9B062564CD1ED0558A54CAD51.e.55")>
+[2025-09-09 10:02:27] [INFO] [SeleniumUtils] - Localidade selecionada com sucesso
+[2025-09-09 10:02:27] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para Franco da Rocha"]
+[2025-09-09 10:02:27] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para Franco da Rocha"]
+[2025-09-09 10:02:30] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="b708058f85748853e13f6f19766c4a12", element="f.218BDB7EE51909C244E922C571E312A2.d.C8BF999C0751C137B88C999641A08C95.e.85")>
+[2025-09-09 10:02:30] [INFO] [SeleniumUtils] - Carregamento de clima finalizado.
+[2025-09-09 10:02:30] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]
+[2025-09-09 10:02:30] [INFO] [SeleniumUtils] - Seção de cards coletada
+[2025-09-09 10:02:30] [INFO] [SeleniumUtils] - Pulando card de arco iris
+[2025-09-09 10:02:30] [INFO] [SeleniumUtils] - Dados referente a sol tratado com sucesso
+[2025-09-09 10:03:53] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 10:03:54] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 10:03:58] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:03:58] [INFO] [SeleniumUtils] - Página aberta com sucesso
+[2025-09-09 10:03:58] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:03:58] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:03:58] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="dfc25f2207ec2ea852c35c5d06efe529", element="f.05FE15F0C8CA1A18135195CBF77B5B77.d.2CEE526A4D6798AD4C21854AFDD52986.e.10")>
+[2025-09-09 10:03:58] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:03:58] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'Franco da Rocha' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:03:58] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'Franco da Rocha'
+[2025-09-09 10:03:58] [INFO] [SeleniumUtils] - Texto parcial inserido
+[2025-09-09 10:03:58] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="Franco da Rocha - SP"]
+[2025-09-09 10:03:58] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="Franco da Rocha - SP"]
+[2025-09-09 10:04:00] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="dfc25f2207ec2ea852c35c5d06efe529", element="f.05FE15F0C8CA1A18135195CBF77B5B77.d.2CEE526A4D6798AD4C21854AFDD52986.e.63")>
+[2025-09-09 10:04:00] [INFO] [SeleniumUtils] - Localidade selecionada com sucesso
+[2025-09-09 10:04:00] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para Franco da Rocha"]
+[2025-09-09 10:04:00] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para Franco da Rocha"]
+[2025-09-09 10:04:02] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="dfc25f2207ec2ea852c35c5d06efe529", element="f.05FE15F0C8CA1A18135195CBF77B5B77.d.AA8A193A937DDF26FB6FD9E5FCE38404.e.93")>
+[2025-09-09 10:04:02] [INFO] [SeleniumUtils] - Carregamento de clima finalizado.
+[2025-09-09 10:04:02] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]
+[2025-09-09 10:04:02] [INFO] [SeleniumUtils] - Seção de cards coletada
+[2025-09-09 10:04:02] [INFO] [SeleniumUtils] - Pulando card de arco iris
+[2025-09-09 10:04:02] [INFO] [SeleniumUtils] - Dados referente a sol tratado com sucesso
+[2025-09-09 10:04:02] [INFO] [BuscadorCidade_WEB] - Cabeçalho criado no CSV: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\Dados\ClimaTempo_Franco da Rocha_SP_09_09_2025.csv
+[2025-09-09 10:04:02] [INFO] [BuscadorCidade_WEB] - Dados salvos com sucesso em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\Dados\ClimaTempo_Franco da Rocha_SP_09_09_2025.csv
+[2025-09-09 10:04:04] [INFO] [SeleniumUtils] - Driver fechado com sucesso.
+[2025-09-09 10:12:32] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 10:12:33] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 10:12:36] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:12:36] [INFO] [SeleniumUtils] - Página aberta com sucesso
+[2025-09-09 10:12:36] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:12:36] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:12:37] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="a9285cc507153ebc0ffff9d49ac56d57", element="f.4F619C41B0CA1FF76494CAC20C128022.d.3FA04D742A1DB759742867EE1F2E333D.e.6")>
+[2025-09-09 10:12:37] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:12:37] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'aaaaa' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:12:37] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'aaaaa'
+[2025-09-09 10:12:37] [INFO] [SeleniumUtils] - Texto parcial inserido
+[2025-09-09 10:12:37] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="aaaaa - SP"]
+[2025-09-09 10:12:37] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="aaaaa - SP"]
+[2025-09-09 10:12:52] [ERROR] [SeleniumUtils] - Timeout: elemento '//h6[.="Cidades"]/..//span[text()="aaaaa - SP"]' não ficou visível em 15s.
+[2025-09-09 10:12:52] [ERROR] [BuscadorCidade_WEB] - Revise as configurações e logs base do programa para melhor análise causa/raíz
+[2025-09-09 10:12:54] [INFO] [SeleniumUtils] - Driver fechado com sucesso.
