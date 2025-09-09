@@ -74,7 +74,7 @@ if __name__ == "__main__":
     chave_api = sys.argv[2]
 
     try:
-        buscador = BuscadorCidade(chave_api)
+        buscador = BuscadorClimaCidade(chave_api)
         resultado = buscador.buscar_cidade(localidade)
         logger.info(f"Resultado obtido: {resultado}")
         campos = {"request.query": "Cidade","location.country":"Pais", "current.astro.sunrise":"Nascer do Sol","current.astro.sunset":"Por do Sol","current.astro.moon_phase":"Lua","current.temperature":"Temperatura atual","current.humidity":"Umidade atual","current.wind_speed":"Velocidade Vento", "current.wind_degree":"Grau do vento", "current.wind_dir":"Direção do vento"}
