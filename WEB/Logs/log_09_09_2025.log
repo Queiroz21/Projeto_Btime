@@ -403,3 +403,29 @@
 [2025-09-09 10:12:52] [ERROR] [SeleniumUtils] - Timeout: elemento '//h6[.="Cidades"]/..//span[text()="aaaaa - SP"]' não ficou visível em 15s.
 [2025-09-09 10:12:52] [ERROR] [BuscadorCidade_WEB] - Revise as configurações e logs base do programa para melhor análise causa/raíz
 [2025-09-09 10:12:54] [INFO] [SeleniumUtils] - Driver fechado com sucesso.
+[2025-09-09 10:52:28] [INFO] [SeleniumUtils] - ChromeDriver já existe em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\chromedriver.exe
+[2025-09-09 10:52:29] [INFO] [SeleniumUtils] - Abrindo URL: https://www.climatempo.com.br/ com navegador versão 139.0.7258.155
+[2025-09-09 10:52:29] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:52:29] [INFO] [SeleniumUtils] - Página aberta com sucesso
+[2025-09-09 10:52:29] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:52:29] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:52:29] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="2d76c2d65b1bde6e84e7f18034f99028", element="f.CE695DAA854EAF30056C853482063E2E.d.339D56EE30E2FB194706CE239272485A.e.17")>
+[2025-09-09 10:52:29] [INFO] [SeleniumUtils] - Aguardando elemento presente: //input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:52:29] [INFO] [SeleniumUtils] - [DIGITAR] Texto 'Bauru' digitado em xpath=//input[@type="search" and @placeholder="Busque por uma cidade..."]
+[2025-09-09 10:52:29] [INFO] [SeleniumUtils] - [VALIDAR] Texto confirmado no elemento: 'Bauru'
+[2025-09-09 10:52:29] [INFO] [SeleniumUtils] - Texto parcial inserido
+[2025-09-09 10:52:29] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //h6[.="Cidades"]/..//span[text()="Bauru - SP"]
+[2025-09-09 10:52:29] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //h6[.="Cidades"]/..//span[text()="Bauru - SP"]
+[2025-09-09 10:52:31] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="2d76c2d65b1bde6e84e7f18034f99028", element="f.CE695DAA854EAF30056C853482063E2E.d.339D56EE30E2FB194706CE239272485A.e.63")>
+[2025-09-09 10:52:31] [INFO] [SeleniumUtils] - Localidade selecionada com sucesso
+[2025-09-09 10:52:31] [INFO] [SeleniumUtils] - Tentando clicar no elemento: //a[@title="Previsão 15 dias para Bauru"]
+[2025-09-09 10:52:31] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //a[@title="Previsão 15 dias para Bauru"]
+[2025-09-09 10:52:32] [INFO] [SeleniumUtils] - Elemento clicado com sucesso: <selenium.webdriver.remote.webelement.WebElement (session="2d76c2d65b1bde6e84e7f18034f99028", element="f.CE695DAA854EAF30056C853482063E2E.d.1BF367C24A56763F0B90E130FC320900.e.101")>
+[2025-09-09 10:52:32] [INFO] [SeleniumUtils] - Carregamento de clima finalizado.
+[2025-09-09 10:52:32] [INFO] [SeleniumUtils] - Aguardando visibilidade do elemento: //input[@id="chk-accordion-daily-info-1"]/..//div[contains(@class,"variable-card")]
+[2025-09-09 10:52:32] [INFO] [SeleniumUtils] - Seção de cards coletada
+[2025-09-09 10:52:32] [INFO] [SeleniumUtils] - Pulando card de arco iris
+[2025-09-09 10:52:32] [INFO] [SeleniumUtils] - Dados referente a sol tratado com sucesso
+[2025-09-09 10:52:32] [INFO] [BuscadorCidade_WEB] - Cabeçalho criado no CSV: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\Dados\ClimaTempo_Bauru_SP_09_09_2025.csv
+[2025-09-09 10:52:32] [INFO] [BuscadorCidade_WEB] - Dados salvos com sucesso em: C:\Users\Jarvis\Desktop\Projetos\Projeto_Btime\WEB\Dados\ClimaTempo_Bauru_SP_09_09_2025.csv
+[2025-09-09 10:52:34] [INFO] [SeleniumUtils] - Driver fechado com sucesso.

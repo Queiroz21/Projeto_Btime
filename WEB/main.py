@@ -1,5 +1,6 @@
 import os
 import csv
+import sys
 from datetime import datetime
 from climatempo_utils import ClimaTempoUtils
 from logger_utils import get_logger
